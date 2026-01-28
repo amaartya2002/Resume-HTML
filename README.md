@@ -8,9 +8,9 @@
 
 
 
-## Setup Instruction
+## Setup Instructions
+
 - ## Clone the Repository
    - git clone https://github.com/amaartya2002/Resume-HTML.git
 
-- ## Open the file in the Browser
-   - drag the file from main/index.html to the browser.
+
